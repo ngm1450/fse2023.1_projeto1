@@ -1,6 +1,6 @@
 ## Sobre o Projeto
 
-O objetivo deste projeto é criar um sistema para controle e monitoramento de vagas de estacionamento, utilizando placas Raspberry PI acompanhandas de um servidor central e uma interface de usuário. 
+O objetivo deste projeto é criar um sistema para controle e monitoramento de vagas de estacionamento, utilizando placas Raspberry PI acompanhadas de um servidor central e uma interface de usuário. 
 
 O sistema deve monitorar a entrada e saída dos veículos, o andar no qual eles se encontram e o preço cobrado por sua estadia.
 
@@ -31,9 +31,9 @@ Os servidores distribuídos se comunicarão com o servidor central através do p
 
 
 ## Referências
-Brilakis, I.; Lee, S. H.; Becerik-Gerber Burçin. Computing in Civil Engineering: June 23-25, 2013, Los Angeles, California; ASCE, American Society of Civil Engineers: Reston, VA, 2013. 
+Brilakis, I.; Lee, S. H.; Becerik-Gerber Burçin. <i>Computing in Civil Engineering: June 23-25, 2013, Los Angeles, California</i>; ASCE, American Society of Civil Engineers: Reston, VA, 2013. 
 
-Global Street Design Guide; Island Press: Washington D.C., 2015. 
+<i>Global Street Design Guide</i>; Island Press: Washington D.C., 2015. 
 
-Teodorovic, D.; Janic, M. Transportation Engineering: Theory, Practice, and Modeling; Elsevier Science & Technology: San Diego, 2022. 
+Teodorovic, D.; Janic, M. <i>Transportation Engineering: Theory, Practice, and Modeling</i>; Elsevier Science & Technology: San Diego, 2022. 
 
