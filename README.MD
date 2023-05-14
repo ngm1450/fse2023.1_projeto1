@@ -10,7 +10,7 @@ O sistema consiste em um estacionamento de dois andares, cada um controlado por 
 
 Os servidores distribuídos se comunicarão com o servidor central através do protocolo TCP/IP usando o formato JSON (Brilakis et al., 2013)
 
-## <a href="https://gitlab.com/fse_fga/trabalhos-2023_1/trabalho-1-2023-1#3-funcionamento-e-requisitos">Funcionamento e Requisitos</a>
+## <a href="https://gitlab.com/fse_fga/trabalhos-2023_1/trabalho-1-2023-1#3-funcionamento-e-requisitos" target="_blank">Funcionamento e Requisitos</a>
 
 
 ## Componentes
