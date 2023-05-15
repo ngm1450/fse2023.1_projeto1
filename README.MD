@@ -1,3 +1,9 @@
+## Aluno
+
+Nome: Nícolas Georgeos Mantzos
+
+Matrícula: 17/0051277
+
 ## Sobre o Projeto
 
 O objetivo deste projeto é criar um sistema para controle e monitoramento de vagas de estacionamento, utilizando placas Raspberry PI acompanhadas de um servidor central e uma interface de usuário. 
